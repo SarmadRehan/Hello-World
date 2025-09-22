@@ -4,9 +4,4 @@ fun main() {
     println("GIT Lecture 02")
     println("GIT Lecture 02")
     println("GIT Lecture 02")
-    println("GIT Lecture 02")
-    println("GIT Lecture 02")
-    println("GIT Lecture 02")
-    println("GIT Lecture 02")
-    println("GIT Lecture 02")
 }
